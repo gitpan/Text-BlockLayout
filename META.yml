@@ -20,5 +20,5 @@ no_index:
 requires:
   Moo: '0.091011'
   Test::More: '0'
-  Text::Wrap: '0'
-version: '0.02'
+  Text::Wrapper: '0'
+version: '0.03'

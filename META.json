@@ -34,10 +34,10 @@
          "requires" : {
             "Moo" : "0.091011",
             "Test::More" : "0",
-            "Text::Wrap" : "0"
+            "Text::Wrapper" : "0"
          }
       }
    },
    "release_status" : "stable",
-   "version" : "0.02"
+   "version" : "0.03"
 }
